@@ -1,0 +1,16 @@
+sport_type_id,sport_name,sport_code,is_team_sport,description,created_at,updated_at,is_active,data_source
+1,Football,FTBL,True,Indoor and outdoor football,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+2,Basketball,BSKT,True,Indoor basketball,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+3,Boxing,BOXN,False,Non-contact boxing fitness,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+4,Rugby,RGBY,True,Tag rugby and touch rugby,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+5,Netball,NTBL,True,Indoor netball,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+6,Badminton,BDMN,False,Singles and doubles badminton,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+7,Table Tennis,TTNS,False,Table tennis,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+8,Athletics,ATHL,False,Running and track activities,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+9,Fitness Training,FITN,False,General fitness and gym work,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+10,Dance,DANC,False,Street dance and movement,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+11,Volleyball,VBAL,True,Indoor volleyball,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+12,Cricket,CRKT,True,Indoor cricket,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+13,Swimming,SWIM,False,Pool-based activities,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+14,Cycling,CYCL,False,Indoor and outdoor cycling,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic
+15,Martial Arts,MRTL,False,Various martial arts disciplines,2026-01-06 16:55:51.080774+00:00,2026-01-06 16:55:51.080774+00:00,True,dbldatagen_synthetic

@@ -1,0 +1,7 @@
+region_id,region_name,region_code,created_at,updated_at,is_active,data_source
+1,Scotland,SCT,2026-01-06 16:55:30.058635+00:00,2026-01-06 16:55:30.058635+00:00,True,dbldatagen_synthetic
+2,North East England,NEE,2026-01-06 16:55:30.058635+00:00,2026-01-06 16:55:30.058635+00:00,True,dbldatagen_synthetic
+3,North West England,NWE,2026-01-06 16:55:30.058635+00:00,2026-01-06 16:55:30.058635+00:00,True,dbldatagen_synthetic
+4,Yorkshire and Humber,YKS,2026-01-06 16:55:30.058635+00:00,2026-01-06 16:55:30.058635+00:00,True,dbldatagen_synthetic
+5,Midlands,MID,2026-01-06 16:55:30.058635+00:00,2026-01-06 16:55:30.058635+00:00,True,dbldatagen_synthetic
+6,South England,STH,2026-01-06 16:55:30.058635+00:00,2026-01-06 16:55:30.058635+00:00,True,dbldatagen_synthetic

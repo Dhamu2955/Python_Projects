@@ -1,0 +1,46 @@
+skill_id,skill_name,skill_category_id,min_proficiency,max_proficiency,description,created_at,updated_at,is_active,data_source
+1,Reading Comprehension,1,1,5,Understanding written text,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+2,Written Expression,1,1,5,Expressing ideas in writing,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+3,Spelling and Grammar,1,1,5,Correct spelling and grammar usage,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+4,Form Completion,1,1,5,Accurately completing forms,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+5,Email Writing,1,1,5,Professional email composition,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+6,Basic Arithmetic,2,1,5,"Addition, subtraction, multiplication, division",2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+7,Percentages,2,1,5,Working with percentages,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+8,Money Handling,2,1,5,Managing cash and transactions,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+9,Time Calculations,2,1,5,Working with time and schedules,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+10,Measurements,2,1,5,Using measurements and units,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+11,Computer Basics,3,1,5,Basic computer operation,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+12,Internet Navigation,3,1,5,Using web browsers effectively,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+13,Word Processing,3,1,5,Creating documents,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+14,Spreadsheets,3,1,5,Basic spreadsheet usage,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+15,Email Management,3,1,5,Managing email accounts,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+16,Online Safety,3,1,5,Safe internet practices,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+17,Verbal Communication,4,1,5,Speaking clearly and effectively,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+18,Active Listening,4,1,5,Listening and understanding others,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+19,Presentation Skills,4,1,5,Presenting to groups,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+20,Telephone Skills,4,1,5,Professional phone communication,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+21,Body Language,4,1,5,Non-verbal communication awareness,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+22,Conflict Resolution,4,1,5,Resolving disagreements constructively,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+23,Time Management,5,1,5,Managing time effectively,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+24,Goal Setting,5,1,5,Setting and achieving goals,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+25,Self-Motivation,5,1,5,Staying motivated independently,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+26,Stress Management,5,1,5,Coping with pressure,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+27,Problem Solving,5,1,5,Analyzing and solving problems,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+28,Decision Making,5,1,5,Making informed decisions,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+29,Adaptability,5,1,5,Adapting to change,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+30,Reliability,5,1,5,Being dependable and punctual,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+31,CV Writing,6,1,5,Creating effective CVs,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+32,Job Searching,6,1,5,Finding job opportunities,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+33,Application Forms,6,1,5,Completing job applications,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+34,Interview Preparation,6,1,5,Preparing for interviews,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+35,Interview Performance,6,1,5,Performing well in interviews,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+36,Workplace Expectations,6,1,5,Understanding employer expectations,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+37,Professional Appearance,6,1,5,Appropriate workplace presentation,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+38,Teamwork in Sport,7,1,5,Working as part of a sports team,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+39,Physical Endurance,7,1,5,Maintaining physical activity,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+40,Sports Technique,7,1,5,Sport-specific skills,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+41,Fair Play,7,1,5,Sportsmanship and ethics,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+42,Health and Safety Awareness,8,1,5,Workplace safety knowledge,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+43,Customer Service,8,1,5,Serving customers effectively,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+44,Cash Handling,8,1,5,Managing financial transactions,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic
+45,Food Hygiene,8,1,5,Food safety and hygiene practices,2026-01-06 16:55:47.713097+00:00,2026-01-06 16:55:47.713097+00:00,True,dbldatagen_synthetic

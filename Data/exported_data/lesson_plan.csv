@@ -1,0 +1,201 @@
+lesson_plan_id,lesson_code,lesson_title,theme_id,product_type_id,duration_minutes,difficulty_level,delivery_method,requires_equipment,max_participants,version,effective_from,created_at,updated_at,is_active,data_source
+101,LES-100100100,dolore ut Wornshop,4,7,45,Intermediate,Practical,False,9,2.0,2023-02-22,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+102,LES-101101101,in cillum Worbshop,7,3,60,Intermediate,Classroom,True,10,1.1,2022-11-16,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+103,LES-102102102,est aliquip Worishop,5,6,45,Intermediate,One-to-One,False,11,1.1,2022-04-20,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+104,LES-103103103,nostrud ipsum Worrshop,2,3,45,Intermediate,Group Activity,True,12,1.1,2022-01-23,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+105,LES-104104104,do do Worzshop,4,8,90,Foundation,Classroom,False,13,2.0,2023-08-16,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+106,LES-105105105,tempor nostrud Wor3shop,8,3,60,Advanced,One-to-One,True,14,1.0,2023-03-22,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+107,LES-106106106,fugiat magna Wor0shop,5,3,120,Foundation,Group Activity,False,15,2.1,2022-07-09,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+108,LES-107107107,enim ut Worlshop,4,6,90,Advanced,Practical,True,16,1.1,2022-10-04,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+109,LES-108108108,esse ut Worfshop,2,6,60,Advanced,One-to-One,False,17,2.1,2023-09-20,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+110,LES-109109109,ut reprehenderit Worlshop,6,4,60,Intermediate,Classroom,True,18,1.1,2023-10-09,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+111,LES-110110110,mollit nisi Worhshop,11,8,90,Intermediate,Group Activity,False,19,1.0,2023-08-04,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+112,LES-111111111,laborum labore Worhshop,8,5,30,Intermediate,Classroom,True,20,2.1,2023-09-28,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+113,LES-112112112,aliqua ea Worqshop,5,4,60,Intermediate,Practical,False,5,2.1,2022-07-23,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+114,LES-113113113,occaecat irure Worpshop,11,5,60,Intermediate,Group Activity,True,6,2.0,2022-02-23,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+115,LES-114114114,in eu Woreshop,9,6,60,Foundation,Online,False,7,1.1,2023-09-09,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+116,LES-115115115,ut occaecat Worwshop,11,7,60,Intermediate,Mixed,True,8,2.0,2023-09-03,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+117,LES-116116116,ut dolor Worxshop,5,3,60,Foundation,Practical,False,9,1.0,2022-12-16,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+118,LES-117117117,tempor dolor Wor7shop,7,4,60,Intermediate,Classroom,True,10,2.1,2023-05-11,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+119,LES-118118118,lorem fugiat Worzshop,9,5,60,Foundation,Practical,False,11,1.0,2022-05-12,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+120,LES-119119119,in labore Woryshop,8,8,60,Foundation,Group Activity,True,12,1.0,2022-02-12,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+121,LES-120120120,fugiat veniam Worzshop,2,6,45,Foundation,Classroom,False,13,2.0,2023-04-25,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+122,LES-121121121,labore sint Worzshop,8,5,90,Advanced,One-to-One,True,14,2.0,2022-05-07,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+123,LES-122122122,mollit sunt Wormshop,1,2,60,Intermediate,Practical,False,15,2.0,2022-11-22,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+124,LES-123123123,tempor incididunt Wor7shop,7,8,120,Intermediate,Classroom,True,16,1.1,2023-09-23,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+125,LES-124124124,ut veniam Worpshop,4,1,90,Foundation,One-to-One,False,17,1.1,2023-06-28,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+126,LES-125125125,laborum dolor Worqshop,3,7,90,Intermediate,Practical,True,18,1.0,2022-11-20,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+127,LES-126126126,aliqua dolore Worlshop,12,3,60,Intermediate,Classroom,False,19,2.0,2022-06-11,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+128,LES-127127127,incididunt est Worhshop,12,5,60,Intermediate,Mixed,True,20,1.1,2022-02-01,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+129,LES-128128128,deserunt occaecat Worxshop,7,5,45,Advanced,Mixed,False,5,2.0,2023-04-18,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+130,LES-129129129,tempor cupidatat Worushop,6,3,45,Foundation,Practical,True,6,2.0,2022-11-13,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+131,LES-130130130,consequat incididunt Wor4shop,6,2,45,Intermediate,Mixed,False,7,1.0,2023-10-15,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+132,LES-131131131,voluptate officia Wor2shop,8,5,45,Intermediate,Practical,True,8,1.1,2023-02-01,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+133,LES-132132132,dolore consectetur Wor8shop,3,4,60,Foundation,Mixed,False,9,2.1,2022-08-18,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+134,LES-133133133,occaecat sunt Wor5shop,10,7,60,Intermediate,Practical,True,10,2.0,2023-09-12,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+135,LES-134134134,ea in Wordshop,6,5,120,Intermediate,Mixed,False,11,2.0,2023-09-16,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+136,LES-135135135,consectetur eu Woryshop,3,2,60,Intermediate,Group Activity,True,12,2.0,2022-06-13,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+137,LES-136136136,esse aliqua Wor3shop,4,7,30,Foundation,One-to-One,False,13,1.1,2023-01-15,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+138,LES-137137137,laboris ut Worvshop,11,7,60,Foundation,One-to-One,True,14,2.0,2022-01-16,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+139,LES-138138138,aliquip irure Worsshop,2,5,90,Intermediate,One-to-One,False,15,2.0,2023-07-02,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+140,LES-139139139,in ex Worsshop,4,6,45,Foundation,Practical,True,16,1.1,2022-05-27,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+141,LES-140140140,sunt sit Worxshop,5,3,30,Foundation,Group Activity,False,17,2.0,2022-10-23,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+142,LES-141141141,ad tempor Wor9shop,6,5,45,Intermediate,One-to-One,True,18,2.1,2023-02-11,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+143,LES-142142142,lorem consectetur Wor2shop,12,5,30,Intermediate,One-to-One,False,19,1.0,2022-10-26,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+144,LES-143143143,exercitation magna Wormshop,1,7,90,Intermediate,Group Activity,True,20,2.0,2023-10-02,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+145,LES-144144144,nostrud magna Woryshop,9,7,60,Advanced,Practical,False,5,1.1,2022-03-22,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+146,LES-145145145,veniam ut Wor0shop,9,1,90,Intermediate,Classroom,True,6,1.0,2022-06-25,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+147,LES-146146146,laboris esse Wor7shop,9,4,45,Intermediate,Group Activity,False,7,2.0,2022-03-25,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+148,LES-147147147,amet proident Worgshop,10,5,120,Advanced,Classroom,True,8,1.1,2022-01-28,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+149,LES-148148148,exercitation in Wor2shop,2,7,60,Foundation,Mixed,False,9,2.1,2022-07-13,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+150,LES-149149149,in consequat Workshop,10,8,60,Intermediate,Group Activity,True,10,2.0,2022-11-21,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+51,LES-505050,dolore ut Wornshop,9,8,60,Foundation,Practical,False,7,1.0,2023-03-27,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+52,LES-515151,in cillum Worbshop,6,6,90,Foundation,Classroom,True,8,1.0,2023-10-09,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+53,LES-525252,est aliquip Worishop,4,5,60,Intermediate,Mixed,False,9,2.0,2022-04-18,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+54,LES-535353,nostrud ipsum Worrshop,6,3,30,Foundation,Group Activity,True,10,2.1,2022-12-26,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+55,LES-545454,do do Worzshop,11,2,45,Advanced,Practical,False,11,1.0,2023-10-15,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+56,LES-555555,tempor nostrud Wor3shop,3,7,90,Foundation,Group Activity,True,12,2.0,2022-04-07,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+57,LES-565656,fugiat magna Wor0shop,11,1,120,Intermediate,Group Activity,False,13,2.0,2022-06-08,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+58,LES-575757,enim ut Worlshop,8,4,30,Foundation,Mixed,True,14,1.1,2023-05-28,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+59,LES-585858,esse ut Worfshop,4,3,45,Advanced,Practical,False,15,1.1,2022-02-04,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+60,LES-595959,ut reprehenderit Worlshop,2,6,90,Intermediate,Group Activity,True,16,2.0,2022-03-29,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+61,LES-606060,mollit nisi Worhshop,3,2,90,Intermediate,Group Activity,False,17,1.1,2022-10-22,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+62,LES-616161,laborum labore Worhshop,8,7,60,Foundation,Mixed,True,18,2.1,2023-03-20,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+63,LES-626262,aliqua ea Worqshop,7,6,120,Foundation,Mixed,False,19,2.0,2022-12-25,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+64,LES-636363,occaecat irure Worpshop,7,4,45,Intermediate,Classroom,True,20,1.0,2023-01-08,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+65,LES-646464,in eu Woreshop,1,8,120,Foundation,Mixed,False,5,2.0,2023-07-16,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+66,LES-656565,ut occaecat Worwshop,9,1,90,Intermediate,Group Activity,True,6,1.0,2022-11-15,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+67,LES-666666,ut dolor Worxshop,9,2,60,Advanced,Group Activity,False,7,2.1,2023-10-20,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+68,LES-676767,tempor dolor Wor7shop,4,7,120,Intermediate,Classroom,True,8,2.0,2022-12-01,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+69,LES-686868,lorem fugiat Worzshop,6,2,60,Foundation,One-to-One,False,9,1.1,2022-02-08,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+70,LES-696969,in labore Woryshop,12,6,60,Foundation,Group Activity,True,10,2.0,2022-03-25,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+71,LES-707070,fugiat veniam Worzshop,4,4,60,Intermediate,Group Activity,False,11,1.1,2023-11-13,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+72,LES-717171,labore sint Worzshop,9,5,30,Advanced,Group Activity,True,12,1.1,2022-12-10,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+73,LES-727272,mollit sunt Wormshop,12,2,60,Foundation,Group Activity,False,13,2.1,2022-12-07,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+74,LES-737373,tempor incididunt Wor7shop,5,2,30,Intermediate,Classroom,True,14,2.0,2023-06-26,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+75,LES-747474,ut veniam Worpshop,8,4,30,Advanced,Practical,False,15,2.0,2023-11-26,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+76,LES-757575,laborum dolor Worqshop,2,5,60,Intermediate,Classroom,True,16,1.1,2022-12-14,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+77,LES-767676,aliqua dolore Worlshop,10,8,60,Foundation,Mixed,False,17,1.0,2023-04-16,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+78,LES-777777,incididunt est Worhshop,8,4,45,Intermediate,Classroom,True,18,1.1,2023-07-05,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+79,LES-787878,deserunt occaecat Worxshop,12,4,120,Advanced,One-to-One,False,19,2.0,2022-03-05,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+80,LES-797979,tempor cupidatat Worushop,1,2,60,Intermediate,Group Activity,True,20,1.0,2023-03-26,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+81,LES-808080,consequat incididunt Wor4shop,5,1,120,Intermediate,Practical,False,5,1.0,2023-12-03,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+82,LES-818181,voluptate officia Wor2shop,11,6,90,Intermediate,One-to-One,True,6,1.0,2022-10-10,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+83,LES-828282,dolore consectetur Wor8shop,11,2,30,Advanced,Classroom,False,7,1.0,2023-03-14,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+84,LES-838383,occaecat sunt Wor5shop,10,5,90,Advanced,Mixed,True,8,2.0,2023-06-02,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+85,LES-848484,ea in Wordshop,4,7,30,Foundation,One-to-One,False,9,2.0,2022-09-09,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+86,LES-858585,consectetur eu Woryshop,7,5,60,Foundation,Group Activity,True,10,2.0,2023-04-07,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+87,LES-868686,esse aliqua Wor3shop,9,5,60,Intermediate,Classroom,False,11,1.1,2023-09-03,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+88,LES-878787,laboris ut Worvshop,11,4,45,Intermediate,Mixed,True,12,1.1,2022-07-13,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+89,LES-888888,aliquip irure Worsshop,3,2,60,Foundation,One-to-One,False,13,2.0,2023-08-25,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+90,LES-898989,in ex Worsshop,9,8,60,Intermediate,Practical,True,14,1.0,2022-01-18,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+91,LES-909090,sunt sit Worxshop,8,6,60,Foundation,Group Activity,False,15,1.1,2023-07-18,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+92,LES-919191,ad tempor Wor9shop,5,2,45,Intermediate,Classroom,True,16,1.1,2023-09-08,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+93,LES-929292,lorem consectetur Wor2shop,7,4,30,Intermediate,One-to-One,False,17,1.1,2022-05-08,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+94,LES-939393,exercitation magna Wormshop,2,6,90,Foundation,Group Activity,True,18,1.1,2022-11-12,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+95,LES-949494,nostrud magna Woryshop,8,4,60,Foundation,Classroom,False,19,1.0,2022-01-08,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+96,LES-959595,veniam ut Wor0shop,4,2,45,Intermediate,Practical,True,20,1.1,2022-04-17,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+97,LES-969696,laboris esse Wor7shop,10,3,90,Intermediate,Group Activity,False,5,2.0,2022-01-03,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+98,LES-979797,amet proident Worgshop,5,5,90,Advanced,Mixed,True,6,2.1,2023-06-25,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+99,LES-989898,exercitation in Wor2shop,7,5,90,Intermediate,One-to-One,False,7,1.0,2023-05-15,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+100,LES-999999,in consequat Workshop,6,6,90,Foundation,Practical,True,8,2.0,2023-03-19,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+151,LES-150150150,dolore ut Wornshop,4,7,90,Foundation,Group Activity,False,11,2.0,2022-02-27,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+152,LES-151151151,in cillum Worbshop,4,7,120,Intermediate,Classroom,True,12,2.0,2023-11-20,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+153,LES-152152152,est aliquip Worishop,9,3,60,Intermediate,Classroom,False,13,1.1,2022-11-28,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+154,LES-153153153,nostrud ipsum Worrshop,3,5,120,Foundation,Classroom,True,14,1.0,2023-03-23,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+155,LES-154154154,do do Worzshop,5,7,30,Advanced,One-to-One,False,15,1.1,2023-08-20,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+156,LES-155155155,tempor nostrud Wor3shop,12,3,60,Advanced,One-to-One,True,16,2.0,2022-02-03,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+157,LES-156156156,fugiat magna Wor0shop,9,3,90,Foundation,Classroom,False,17,2.1,2022-10-15,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+158,LES-157157157,enim ut Worlshop,8,5,120,Advanced,Classroom,True,18,2.0,2022-08-05,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+159,LES-158158158,esse ut Worfshop,5,8,60,Intermediate,Classroom,False,19,1.1,2023-07-08,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+160,LES-159159159,ut reprehenderit Worlshop,10,7,60,Foundation,Group Activity,True,20,2.0,2022-01-02,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+161,LES-160160160,mollit nisi Worhshop,5,4,30,Foundation,Online,False,5,2.1,2022-03-13,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+162,LES-161161161,laborum labore Worhshop,5,1,120,Intermediate,Online,True,6,1.1,2022-12-24,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+163,LES-162162162,aliqua ea Worqshop,11,6,60,Foundation,Classroom,False,7,2.1,2023-05-12,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+164,LES-163163163,occaecat irure Worpshop,10,2,30,Intermediate,Classroom,True,8,2.1,2022-08-04,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+165,LES-164164164,in eu Woreshop,4,6,90,Intermediate,Group Activity,False,9,1.1,2023-06-27,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+166,LES-165165165,ut occaecat Worwshop,10,3,60,Foundation,One-to-One,True,10,1.1,2023-06-24,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+167,LES-166166166,ut dolor Worxshop,10,4,45,Foundation,Online,False,11,2.1,2023-07-07,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+168,LES-167167167,tempor dolor Wor7shop,6,6,60,Advanced,Mixed,True,12,1.1,2022-01-22,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+169,LES-168168168,lorem fugiat Worzshop,6,8,60,Advanced,Practical,False,13,2.0,2022-12-01,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+170,LES-169169169,in labore Woryshop,9,5,120,Intermediate,Online,True,14,2.1,2022-01-05,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+171,LES-170170170,fugiat veniam Worzshop,11,5,45,Intermediate,Practical,False,15,1.1,2023-06-13,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+172,LES-171171171,labore sint Worzshop,2,5,90,Advanced,Practical,True,16,1.1,2023-05-22,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+173,LES-172172172,mollit sunt Wormshop,5,2,90,Foundation,Mixed,False,17,2.0,2022-02-28,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+174,LES-173173173,tempor incididunt Wor7shop,7,6,90,Advanced,Practical,True,18,1.1,2022-12-17,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+175,LES-174174174,ut veniam Worpshop,2,6,60,Intermediate,Classroom,False,19,2.0,2023-02-18,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+176,LES-175175175,laborum dolor Worqshop,7,2,60,Advanced,Practical,True,20,1.0,2023-08-12,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+177,LES-176176176,aliqua dolore Worlshop,2,8,45,Intermediate,Group Activity,False,5,2.1,2023-10-19,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+178,LES-177177177,incididunt est Worhshop,5,3,45,Intermediate,Online,True,6,2.1,2023-03-17,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+179,LES-178178178,deserunt occaecat Worxshop,9,2,90,Intermediate,One-to-One,False,7,2.1,2022-08-09,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+180,LES-179179179,tempor cupidatat Worushop,4,7,90,Advanced,Group Activity,True,8,1.1,2023-01-23,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+181,LES-180180180,consequat incididunt Wor4shop,5,5,60,Intermediate,Mixed,False,9,1.1,2023-02-25,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+182,LES-181181181,voluptate officia Wor2shop,1,7,60,Foundation,Practical,True,10,2.0,2023-08-15,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+183,LES-182182182,dolore consectetur Wor8shop,11,6,120,Advanced,Group Activity,False,11,1.1,2023-02-11,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+184,LES-183183183,occaecat sunt Wor5shop,2,5,60,Foundation,One-to-One,True,12,2.1,2023-03-09,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+185,LES-184184184,ea in Wordshop,5,7,90,Intermediate,Group Activity,False,13,2.1,2022-05-03,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+186,LES-185185185,consectetur eu Woryshop,3,2,45,Advanced,Group Activity,True,14,1.1,2023-09-14,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+187,LES-186186186,esse aliqua Wor3shop,2,7,60,Intermediate,Classroom,False,15,1.1,2022-06-17,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+188,LES-187187187,laboris ut Worvshop,8,3,45,Foundation,One-to-One,True,16,2.0,2023-12-28,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+189,LES-188188188,aliquip irure Worsshop,9,2,45,Advanced,Practical,False,17,1.1,2022-02-17,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+190,LES-189189189,in ex Worsshop,2,1,45,Foundation,Group Activity,True,18,2.0,2022-10-11,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+191,LES-190190190,sunt sit Worxshop,9,2,90,Foundation,One-to-One,False,19,2.0,2022-11-15,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+192,LES-191191191,ad tempor Wor9shop,9,7,90,Advanced,Classroom,True,20,1.1,2022-03-02,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+193,LES-192192192,lorem consectetur Wor2shop,6,4,30,Advanced,Mixed,False,5,2.0,2023-10-19,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+194,LES-193193193,exercitation magna Wormshop,5,1,60,Foundation,Group Activity,True,6,2.0,2022-06-26,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+195,LES-194194194,nostrud magna Woryshop,10,6,45,Intermediate,Practical,False,7,2.1,2023-11-04,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+196,LES-195195195,veniam ut Wor0shop,1,2,90,Intermediate,Group Activity,True,8,2.1,2022-05-28,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+197,LES-196196196,laboris esse Wor7shop,4,6,60,Foundation,One-to-One,False,9,2.0,2023-11-05,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+198,LES-197197197,amet proident Worgshop,2,4,30,Advanced,Classroom,True,10,1.1,2023-11-16,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+199,LES-198198198,exercitation in Wor2shop,10,4,30,Foundation,Practical,False,11,1.0,2023-03-24,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+200,LES-199199199,in consequat Workshop,10,2,60,Advanced,Classroom,True,12,1.0,2023-07-01,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+1,LES-000,dolore ut Wornshop,7,2,60,Foundation,Mixed,False,5,2.1,2023-03-22,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+2,LES-111,in cillum Worbshop,5,7,60,Foundation,Online,True,6,2.0,2022-12-05,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+3,LES-222,est aliquip Worishop,11,1,30,Foundation,One-to-One,False,7,1.1,2022-06-10,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+4,LES-333,nostrud ipsum Worrshop,8,6,45,Foundation,Classroom,True,8,1.0,2023-08-13,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+5,LES-444,do do Worzshop,11,8,30,Intermediate,Classroom,False,9,2.1,2023-01-10,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+6,LES-555,tempor nostrud Wor3shop,7,3,60,Advanced,Online,True,10,1.1,2022-09-03,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+7,LES-666,fugiat magna Wor0shop,7,3,60,Advanced,Group Activity,False,11,2.0,2023-10-13,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+8,LES-777,enim ut Worlshop,10,4,60,Foundation,Group Activity,True,12,1.0,2022-08-27,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+9,LES-888,esse ut Worfshop,10,5,120,Foundation,Classroom,False,13,2.0,2022-04-07,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+10,LES-999,ut reprehenderit Worlshop,4,8,45,Foundation,Practical,True,14,2.0,2022-10-18,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+11,LES-101010,mollit nisi Worhshop,8,6,90,Foundation,Classroom,False,15,1.1,2022-12-03,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+12,LES-111111,laborum labore Worhshop,11,5,60,Foundation,One-to-One,True,16,2.0,2023-04-10,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+13,LES-121212,aliqua ea Worqshop,6,3,90,Foundation,Practical,False,17,2.0,2023-06-03,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+14,LES-131313,occaecat irure Worpshop,11,6,45,Foundation,Mixed,True,18,2.0,2022-07-27,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+15,LES-141414,in eu Woreshop,3,8,45,Intermediate,Classroom,False,19,2.0,2023-09-07,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+16,LES-151515,ut occaecat Worwshop,1,6,60,Advanced,Practical,True,20,1.1,2022-01-23,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+17,LES-161616,ut dolor Worxshop,4,7,60,Intermediate,Mixed,False,5,1.0,2023-01-08,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+18,LES-171717,tempor dolor Wor7shop,4,6,60,Foundation,Classroom,True,6,2.1,2022-03-25,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+19,LES-181818,lorem fugiat Worzshop,12,8,60,Intermediate,Group Activity,False,7,1.0,2023-10-11,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+20,LES-191919,in labore Woryshop,7,7,60,Intermediate,Classroom,True,8,1.1,2022-08-28,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+21,LES-202020,fugiat veniam Worzshop,11,5,60,Advanced,Practical,False,9,2.1,2023-02-23,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+22,LES-212121,labore sint Worzshop,11,7,30,Intermediate,Online,True,10,1.1,2023-03-11,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+23,LES-222222,mollit sunt Wormshop,2,4,90,Intermediate,Classroom,False,11,1.0,2022-04-13,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+24,LES-232323,tempor incididunt Wor7shop,4,2,60,Advanced,Group Activity,True,12,1.1,2023-12-08,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+25,LES-242424,ut veniam Worpshop,11,3,60,Intermediate,Group Activity,False,13,2.0,2022-10-29,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+26,LES-252525,laborum dolor Worqshop,5,3,60,Intermediate,One-to-One,True,14,2.0,2022-02-11,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+27,LES-262626,aliqua dolore Worlshop,11,5,30,Advanced,Online,False,15,1.1,2022-07-16,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+28,LES-272727,incididunt est Worhshop,3,5,60,Intermediate,Practical,True,16,1.0,2022-07-15,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+29,LES-282828,deserunt occaecat Worxshop,9,4,90,Intermediate,One-to-One,False,17,2.0,2022-08-18,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+30,LES-292929,tempor cupidatat Worushop,8,7,45,Intermediate,Group Activity,True,18,1.1,2023-06-16,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+31,LES-303030,consequat incididunt Wor4shop,1,5,30,Foundation,One-to-One,False,19,1.1,2022-10-05,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+32,LES-313131,voluptate officia Wor2shop,9,5,60,Intermediate,Practical,True,20,1.1,2022-02-09,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+33,LES-323232,dolore consectetur Wor8shop,2,6,60,Advanced,Classroom,False,5,1.1,2023-02-26,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+34,LES-333333,occaecat sunt Wor5shop,6,1,120,Foundation,Group Activity,True,6,1.1,2022-01-17,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+35,LES-343434,ea in Wordshop,9,5,45,Intermediate,Mixed,False,7,2.0,2023-06-14,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+36,LES-353535,consectetur eu Woryshop,10,3,90,Foundation,Practical,True,8,2.0,2022-12-19,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+37,LES-363636,esse aliqua Wor3shop,6,2,45,Intermediate,Mixed,False,9,1.0,2023-01-27,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+38,LES-373737,laboris ut Worvshop,10,7,60,Intermediate,Mixed,True,10,1.0,2023-05-20,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+39,LES-383838,aliquip irure Worsshop,11,7,90,Advanced,Classroom,False,11,1.1,2023-10-23,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+40,LES-393939,in ex Worsshop,4,7,60,Advanced,Classroom,True,12,2.1,2023-03-05,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+41,LES-404040,sunt sit Worxshop,2,7,60,Intermediate,Mixed,False,13,2.0,2022-02-27,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+42,LES-414141,ad tempor Wor9shop,7,1,60,Intermediate,Practical,True,14,2.1,2022-11-20,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+43,LES-424242,lorem consectetur Wor2shop,2,5,30,Intermediate,Mixed,False,15,1.1,2022-07-13,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+44,LES-434343,exercitation magna Wormshop,10,4,30,Foundation,Group Activity,True,16,1.0,2022-12-29,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+45,LES-444444,nostrud magna Woryshop,2,4,45,Advanced,Practical,False,17,1.1,2023-10-08,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+46,LES-454545,veniam ut Wor0shop,2,6,60,Foundation,Group Activity,True,18,1.1,2023-01-29,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+47,LES-464646,laboris esse Wor7shop,6,7,120,Advanced,One-to-One,False,19,2.0,2023-11-24,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+48,LES-474747,amet proident Worgshop,8,4,90,Advanced,Practical,True,20,2.1,2023-11-01,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+49,LES-484848,exercitation in Wor2shop,7,3,60,Advanced,Mixed,False,5,2.0,2023-05-27,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic
+50,LES-494949,in consequat Workshop,4,6,30,Foundation,Online,True,6,2.0,2023-05-10,2026-01-06 17:05:47.353929+00:00,2026-01-06 17:05:47.353929+00:00,True,dbldatagen_synthetic

@@ -1,0 +1,13 @@
+theme_id,theme_name,theme_code,category,description,created_at,updated_at,is_active,data_source
+1,English and Literacy,ENGL,Core,"Reading, writing, and comprehension skills",2026-01-06 16:55:40.749942+00:00,2026-01-06 16:55:40.749942+00:00,True,dbldatagen_synthetic
+2,Mathematics and Numeracy,MATH,Core,Basic and applied mathematics skills,2026-01-06 16:55:40.749942+00:00,2026-01-06 16:55:40.749942+00:00,True,dbldatagen_synthetic
+3,Communication Skills,COMM,Soft Skills,Verbal and written communication,2026-01-06 16:55:40.749942+00:00,2026-01-06 16:55:40.749942+00:00,True,dbldatagen_synthetic
+4,Wellbeing and Resilience,WELL,Personal Development,Mental health and wellbeing workshops,2026-01-06 16:55:40.749942+00:00,2026-01-06 16:55:40.749942+00:00,True,dbldatagen_synthetic
+5,Problem Solving,PROB,Soft Skills,Critical thinking and problem resolution,2026-01-06 16:55:40.749942+00:00,2026-01-06 16:55:40.749942+00:00,True,dbldatagen_synthetic
+6,CV Writing,CVWR,Employability,Creating effective CVs and applications,2026-01-06 16:55:40.749942+00:00,2026-01-06 16:55:40.749942+00:00,True,dbldatagen_synthetic
+7,Interview Skills,INTV,Employability,Interview preparation and techniques,2026-01-06 16:55:40.749942+00:00,2026-01-06 16:55:40.749942+00:00,True,dbldatagen_synthetic
+8,Teamwork,TEAM,Soft Skills,Collaboration and team dynamics,2026-01-06 16:55:40.749942+00:00,2026-01-06 16:55:40.749942+00:00,True,dbldatagen_synthetic
+9,Time Management,TIME,Personal Development,Organization and prioritization skills,2026-01-06 16:55:40.749942+00:00,2026-01-06 16:55:40.749942+00:00,True,dbldatagen_synthetic
+10,Digital Literacy,DLIT,Core,Basic computer and internet skills,2026-01-06 16:55:40.749942+00:00,2026-01-06 16:55:40.749942+00:00,True,dbldatagen_synthetic
+11,Financial Literacy,FINL,Life Skills,Money management and budgeting,2026-01-06 16:55:40.749942+00:00,2026-01-06 16:55:40.749942+00:00,True,dbldatagen_synthetic
+12,Health and Safety,HSAF,Vocational,Workplace health and safety awareness,2026-01-06 16:55:40.749942+00:00,2026-01-06 16:55:40.749942+00:00,True,dbldatagen_synthetic

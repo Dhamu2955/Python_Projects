@@ -1,0 +1,56 @@
+community_id,city_id,community_name,postcode_area,description,created_at,updated_at,is_active,data_source
+1,1,Govan,G51,West Glasgow community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+2,1,Easterhouse,G34,East Glasgow community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+3,1,Drumchapel,G15,Northwest Glasgow community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+4,1,Castlemilk,G45,South Glasgow community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+5,1,Maryhill,G20,North Glasgow community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+6,2,Leith,EH6,North Edinburgh community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+7,2,Craigmillar,EH16,Southeast Edinburgh community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+8,2,Wester Hailes,EH14,Southwest Edinburgh community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+9,2,Pilton,EH5,North Edinburgh community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+10,2,Granton,EH5,Waterfront Edinburgh community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+11,3,Byker,NE6,East Newcastle community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+12,3,Walker,NE6,East Newcastle riverside,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+13,3,Elswick,NE4,West Newcastle community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+14,3,Benwell,NE4,West Newcastle community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+15,3,Scotswood,NE15,West Newcastle community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+16,4,Toxteth,L8,South Liverpool community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+17,4,Everton,L6,North Liverpool community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+18,4,Kirkdale,L4,North Liverpool community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+19,4,Speke,L24,South Liverpool community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+20,4,Norris Green,L11,East Liverpool community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+21,5,Moss Side,M14,South Manchester community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+22,5,Longsight,M12,South Manchester community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+23,5,Hulme,M15,Central Manchester community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+24,5,Wythenshawe,M22,South Manchester community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+25,5,Cheetham Hill,M8,North Manchester community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+26,6,Harehills,LS8,East Leeds community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+27,6,Beeston,LS11,South Leeds community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+28,6,Armley,LS12,West Leeds community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+29,6,Seacroft,LS14,East Leeds community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+30,6,Middleton,LS10,South Leeds community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+31,7,Burngreave,S4,North Sheffield community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+32,7,Firth Park,S5,North Sheffield community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+33,7,Manor,S2,East Sheffield community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+34,7,Darnall,S9,East Sheffield community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+35,7,Arbourthorne,S2,Southeast Sheffield community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+36,8,Aston,B6,North Birmingham community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+37,8,Handsworth,B21,Northwest Birmingham community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+38,8,Sparkbrook,B11,South Birmingham community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+39,8,Small Heath,B10,East Birmingham community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+40,8,Erdington,B23,North Birmingham community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+41,9,St Anns,NG3,East Nottingham community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+42,9,Sneinton,NG2,East Nottingham community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+43,9,Bulwell,NG6,North Nottingham community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+44,9,Radford,NG7,West Nottingham community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+45,9,Hyson Green,NG7,Central Nottingham community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+46,10,Hackney,E8,East London community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+47,10,Lewisham,SE13,Southeast London community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+48,10,Tottenham,N17,North London community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+49,10,Brixton,SW9,South London community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+50,10,Newham,E13,East London community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+51,11,St Pauls,BS2,Central Bristol community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+52,11,Hartcliffe,BS13,South Bristol community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+53,11,Lawrence Hill,BS5,East Bristol community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+54,11,Knowle West,BS4,South Bristol community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
+55,11,Southmead,BS10,North Bristol community,2026-01-06 16:56:00.534126+00:00,2026-01-06 16:56:00.534126+00:00,True,dbldatagen_synthetic
